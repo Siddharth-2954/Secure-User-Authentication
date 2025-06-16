@@ -9,7 +9,7 @@
 ![Login Page](https://raw.githubusercontent.com/Siddharth-2954/Secure-User-Authentication/master/assets/login.jpg)
 
 ### Protected Route
-![Page1](https://raw.githubusercontent.com/Siddharth-2954/Secure-User-Authentication/master/assets/protected-route.jpg)
+![Page1](https://raw.githubusercontent.com/Siddharth-2954/Secure-User-Authentication/master/assets/protected route.jpg)
 
 
 ### Role Access Control Model
